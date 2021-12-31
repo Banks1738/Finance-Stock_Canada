@@ -1,6 +1,7 @@
 # Finance-Stock_Canada analysis using Tableau
 
-YouTube maintains a list of the top YouTube channels on the platform. This projects shows the data of top 1000 Youtube channels and channeltypes.
+Daily price data for indexes tracking stock exchanges from Canada. The data was all collected from Yahoo Finance, which had several decades of data available for most exchanges.
+
 ## Acknowledgements
 
  - Assessment 2
