@@ -32,12 +32,12 @@ open the file
 
 ## Screenshots
 
-![](screenshots/1.png)
-![](screenshots/2.png)
-![](screenshots/3.png)
+![1](https://user-images.githubusercontent.com/73833385/147838798-2a5167b3-6e6c-45e3-b134-63e14d41de16.png)
 
 
+![2](https://user-images.githubusercontent.com/73833385/147838800-29bbbfa5-03b5-4b87-8aa6-6acb214e8e5d.png)
 
+![3](https://user-images.githubusercontent.com/73833385/147838803-cb068805-1ae3-4247-be82-7f9ac5d8373d.png)
 
 
 # Hi, My name is Bankole! 👋
