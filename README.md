@@ -7,15 +7,6 @@ Daily price data for indexes tracking stock exchanges from Canada. The data was 
  - Assessment 2
  - https://www.kaggle.com/mattiuzc/stock-exchange-data
 
-## Used By
-
-This project is used by the following:
-
-- Data 1205-01 - DATA VISUALIZATIONS & LEADERSHIP
-- Data 1205-01 - Assessment 2
-
-
-
 ## Tech Stack
 
 Tableau
